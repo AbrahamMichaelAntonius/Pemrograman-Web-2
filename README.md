@@ -1,2 +1,2 @@
 # Pemrograman-Web-2
-# Test Commit & Merge
+# Test Commit and Merge
